@@ -1,0 +1,15 @@
+
+//emphasizing that the first two years of dogs life
+//is accounted for
+var laterYears = myAge -2;
+
+//accounting for later years
+laterYears *=4;
+
+//calculates age in dog years
+var myAgeInDogYears = earlyYears + laterYears;
+
+const myName ="magdala";
+console.log(myName.toLowerCase;
+
+console.log("My name is" + " " + myName + " " + "I am" + " " + myAge + " " + " years old in human years which is" + " " + myAgeInDogYears + " " + "years old in dog years." );
